@@ -1,4 +1,4 @@
-# bem-clsx
+# module-clsx
 Simple and fast [BEM](https://en.bem.info/) class names helper for CSS Modules. Inspired by [clsx](https://github.com/lukeed/clsx) and [bem-cn](https://github.com/albburtsev/bem-cn)
 - No dependencies.
 - Useful for [React](#react-example)
